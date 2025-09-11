@@ -70,15 +70,15 @@ This repo continues the journey I began in **[Journey With Machine Learning](htt
 
 Here’s the roadmap of my learning — from basics ➝ advanced 🚀:
 
-1. **LLMs & Transformers** – Understanding how large language models work.
-2. **GenAI Pipelines** – From preprocessing to embeddings to generation.
-3. **Hugging Face** – Using pre-trained models for text classification & generation.
-4. **Explored OpenAI** – APIs for conversational and generative tasks.
-5. **Prompt Engineering** – Designing effective prompts for better LLM outputs.
-6. **Vector Databases (ChromaDB)** – Storing and querying embeddings.
-7. **LangChain** – Building chains, RAG pipelines, and LLM-powered apps.
-8. **NLP** – Tokenization, embeddings, sentiment analysis, and pipelines.
-9. **Generative AI Applications** – Applying everything into real world solutions.
+1. **LLMs & Transformers** - Understanding how large language models work.
+2. **GenAI Pipelines** - From preprocessing to embeddings to generation.
+3. **Hugging Face** - Using pre-trained models for text classification & generation.
+4. **Explored OpenAI** - APIs for conversational and generative tasks.
+5. **Prompt Engineering** - Designing effective prompts for better LLM outputs.
+6. **Vector Databases (ChromaDB)** - Storing and querying embeddings.
+7. **LangChain** - Building chains, RAG pipelines, and LLM-powered apps.
+8. **NLP** - Tokenization, embeddings, sentiment analysis, and pipelines.
+9. **Generative AI Applications** - Applying everything into real world solutions.
 
 ---
 
@@ -100,7 +100,7 @@ Here’s the roadmap of my learning — from basics ➝ advanced 🚀:
 
 ---
 
-## 👉Real World Project
+## 👉 Real World Project
 
 Using these techniques learned here, I built an applied project:
 
