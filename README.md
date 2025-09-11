@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Journey With Generative AI</h1>
+<h1 align="center">🚀 Journey With Generative AI 🚀</h1>
 
 Welcome to **Journey With Generative AI** my personal learning space to explore, experiment, and implement cutting edge AI concepts. This project documents how I progressed from understanding the **basics of Machine Learning (ML)**, moving into **Deep Learning (DL)**, and then advancing to **Generative AI (GenAI)**.
 
